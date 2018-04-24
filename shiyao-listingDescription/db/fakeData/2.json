@@ -1,0 +1,125 @@
+{
+  "_id": 2,
+  "name": "The Pondhouse - A Magical Place",
+  "location": "Ashfield, Massachusetts, U.S",
+  "address": "888 Ash Rd, Ashfield, MA 25000, USA",
+  "type": "Entire Cabin",
+  "maxNumOfGuests": 5,
+  "numOfBeds": 3,
+  "numOfBaths": 1,
+  "hostName": "Gayle",
+  "hostPic": "http://res.cloudinary.com/dhhl9wiyn/image/upload/v1523557652/original.jpg",
+  "amenities": [
+    {
+      "amenityType": "Basic",
+      "amenityValue": [
+        {
+          "name": "Wifi",
+          "value": "Continuous access in the listing"
+        },
+        {
+          "name": "Laptop friendly workspace",
+          "value": "A table or desk with space for a laptop and a chair that’s comfortable to work in"
+        },
+        {
+          "name": "Essentials",
+          "value": "Towels, bed sheets, soap, and toilet paper"
+        },
+        {
+          "name": "TV",
+          "value": ""
+        },
+        {
+          "name": "Heating",
+          "value": "Central heating or a heater in the listing"
+        }
+      ]
+    },
+    {
+      "amenityType": "Facilities",
+      "amenityValue": [
+        {
+          "name": "Free parking on premises",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "amenityType": "Dining",
+      "amenityValue": [
+        {
+          "name": "Kitchen",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "amenityType": "Guest access",
+      "amenityValue": [
+        {
+          "name": "Lockbox",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "amenityType": "Bed & bath",
+      "amenityValue": [
+        {
+          "name": "Hair dryer",
+          "value": ""
+        },
+        {
+          "name": "Shampoo",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "amenityType": "Safety",
+      "amenityValue": [
+        {
+          "name": "Fire extinguisher",
+          "value": ""
+        }
+      ]
+    }
+  ],
+  "notIncludedAmenities": [
+    "Washer",
+    "Private entrance"
+  ],
+  "sleepingArrangements": [
+    {
+      "name": "Bedroom1",
+      "value": "2 queen beds, 1 single bed"
+    },
+    {
+      "name": "Common spaces",
+      "value": "2 queen beds, 1 single bed"
+    }
+  ],
+  "accessibility": "",
+  "houseRules": {
+    "basicRules": [
+      "No smoking",
+      "No parties or events",
+      "Not safe or suitable for children(0-12 years)",
+      "Check-in is 2PM - 8PM",
+      "Check out by 10AM"
+    ],
+    "textBody": "The bathroom Pondhouse guests use is downstairs in Peter's studio building. His studio is upstairs and is off limits. Unless you ask one of us for a tour. If Peter is not busy he will probably be happy to show you. Please be respectful that this is his workspace. Please don't hang out on the stairs or talk loudly in this space - he works at all hours ( he's an artist!:)\n \rNo smoking in the pond house or bathroom. If you have a dog you may not leave him/her while you are gone. Take your trash from the pond house up to the studio and put into the recycling and trash that is designated for your use. Please do not leave candles burning when not in the pond house. Please latch the pond house when you leave. A good rule of thumb to get those 5 star guest reviews? Leave the pond house how you found it :)\n \rCheck in time is 1PM - 8PM\n \rWhen submitting an inquiry, please tell us a little about yourself and your interest in the Pondhouse. Also let us know that you have read the full description and understand the house rules and feel comfortable staying in a treehouse.\n \rPlease keep in mind that the Pondhouse is meant as a quiet retreat. If you have ANYTHING else in mind, you must let us know ahead of time and get appropriate permission before booking. Photo shoots, events, ceremonies etc. are subject to additional fees.\n \rIf you are interested in using the Pondhouse for a photo shoot, you must give us explicit descriptions of your concept before booking as well as your location budget. Please be aware that photoshoots are subject to different rules and rates, and must be approved by us in advance.\n \rGuests will receive on arrival a full list of property details, rules and local recommendations.\n \rIf using images from this site, please credit the appropriate photographers, as are noted in the individual image descriptions. Please tag us on Instagram #pondhouse\n \rThanks and we look forward to seeing you soon!"
+  },
+  "cancellationPolicy": {
+    "policyType": "Strict",
+    "description": "Cancel up to 7 days before check in and get a 50% refund (minus service fees). Cancel within 7 days of your trip and the reservation is non-refundable. Service fees are refunded when cancellation happens before check in and within 48 hours of booking.",
+    "link": "https://www.airbnb.com/home/cancellation_policies?guest_fee_policy=grace_period_48_hours#strict"
+  },
+  "aboutHome": {
+    "summary": "Relax, rejuvenate and unplug in this ultimate rustic getaway experience in the country. In our beautiful screened Pondhouse, you can gaze at the stars and listen to the sounds of nature from your cozy warm bed. Feel the breeze as you sleep in this magical place unlike any other you will have ever seen. Read and nap, enjoy long walks and explore the nearby towns. You will love the Pondhouse!",
+    "space": "GLAMPING, aka Glamour Camping\n \rAvailable mid-April through November 1\n \rRead just a few reviews and you quickly understand that the Pondhouse is truly an EXPERIENCE. It is a transformative, magical retreat. NOTE: the Pondhouse is not for everyone. No electricity. No walls (screened only). You will hear animals in the woods. The bathroom is a two minute. walk. No kitchen. No stove (but there is an outdoor fire pit). You take chances with the weather. We've had guests love a cozy rainy weekend and even book an extra day during 30 degree temperatures. No groups over 5 people and no kids under 12. You are always welcome to write me to explain your situation - if it feels like a good fit I am willing to bend these rules once in a while.\n \rWhile we do have a pet friendly policy, prior approval and acceptance of our rules and policies is required before a pet may stay with you in The Pondhouse There is also a $25.00 additional pet cleaning charge.\n \rStill interested? Read on. . .\n \rYou have use of a private, full bathroom, with shower, located in our studio building a two minute walk from the Pondhouse. There is also an Airbnb guest room in the studio that may be rented as well. It works great to book both the Pondhouse and this guest room - you can leave your stuff in the studio and keep the Pondhouse tranquil and serene! Happy to give discounts to rent both. Just ask.\n \rThere is a fire pit a few steps from your door. It’s stocked with paper and chopped wood (or chop your own), so you can make a fire to roast marshmallows, cook a whole meal, or just hang out and enjoy the feeling of camping.\n \rOther amenities, including recycled paper plates and utensils, small fridge, electric teapot, coffee press, coffee and teas are provided for you in the studio.\n \rDogs are welcome, but MUST get along with other dogs. We love dogs and our dog Charlie is a fantastic host, will provide lots of love and affection, and is always happy to go for a walk with you. It you bring a dog, you may not leave it in the Pondhouse while you are gone.\n \rCAUTION:*No Wi-Fi or cell service in the pond house - come to unplug! (There is wifi and a land line you can use at the studio for emergencies)\n \r*No nearby transit, and we are in the boonies, so you’ll need a car\n \r*Planning this as a surprise? I strongly suggest that you KNOW that your partner will love this. I've seen a few surprises not work very well. Glamping is not for everyone!\n \r*We are on 50 acres and sound carries. This means no loud music or parties. *Please be respectful of the peace, quiet and serenity of our property\n \r*MUST arrive before dark\n \rMy husband, Peter Kitchell, and I are artists and have lived here for almost 30 years. Peter has carefully cultivated and nurtured the land, which includes building the Pondhouse with Hemlock trees from our woods. We have three buildings (our home and studios) a two minute walk from the Pondhouse. We are good at respecting our guest’s privacy but are also happy to chat and answer any questions. I've made a great list of places to eat (including dog friendly & vegan!)\n \r** Having a special anniversary? Give us a budget and we can decorate with extra special things like flowers, treats, or whatever you'd like!\n \rThis is truly an amazing place.\n \r***PLEASE READ ENTIRE LISTING DESCRIPTION AND RULES BEFORE REQUESTING A RESERVATION.*** We want to make sure that your stay meets your expectations... When making a request, please tell us a little about yourselves, your interest in the Pondhouse and indicate that you have read the full listing and house rules... Thank you!",
+    "guestAccess": "A fire pit just outside the Pondhouse is available for fires and grilling. The bathroom is in the studio building, a two minute walk from the Pondhouse. You have use of a small fridge located across from the bathroom, as well as a cabinet stocked with recycled paper plates and utensils, electric teapot, coffee press, coffee and teas. Most guests planning to cook also bring coolers and other essentials they'd bring on a camping trip. If you are traveling and don't have anything with you, please tell me and we can make sure you have everything you need!\n \rWe live and work here and ask that you keep this in mind. The bathroom is downstairs in Peter's studio. Please be respectful of his space and do not wander around. He is happy to give a tour if he has time - just ask!",
+    "interactionWithGuests": "We welcome you, check in on you, and are happy to help with anything you need.\n \rPLEASE PLAN TO CHECK IN BEFORE DARK. We understand this isn’t always possible, but this isn't the kind of place where you pick up a key and let yourself in, and it’s essential to get the tour while it’s still light outside. If you are a group of 4, we ask that if at all possible all guests arrive together.\n \rIf you have a dog, you may see more of us as our dog, Charlie, is always happy to have a playmate. I have a list of great, dog friendly restaurants, and a few things to do around here.\n \rPlease let us know when you leave - we like to hear how about your stay, and to say goodbye!",
+    "otherNotes": "We need to be here when you check in, so communication about arrival time is essential. I plan my schedule around meeting you - and ask that you respect this. I try to be flexible, but sometimes need to agree on an arrival time, so please stick to this and communicate if you are running late.You can always check in before going back out to lunch or dinner.\n \rNew Yorkers! Avoid the traffic getting out of NYC by taking the train to New Haven. You can rent a car from Avis - super easy and less expensive than renting in the city!"
+  }
+}

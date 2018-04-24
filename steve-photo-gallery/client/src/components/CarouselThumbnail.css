@@ -1,0 +1,19 @@
+.thumbnailImage {
+  height: 67px;
+  width: 100px;
+  cursor: pointer;
+  opacity: 0.5;
+}
+
+.thumbnailImage:hover {
+  opacity: 1;
+}
+
+.thumbContainer {
+  background: black;
+  width: 100px;
+}
+
+.slick-current img {
+  opacity: 1;
+}

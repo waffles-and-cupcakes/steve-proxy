@@ -1,0 +1,78 @@
+{
+  "name": "facere non aut",
+  "location": "Hayesville",
+  "address": "8212 Thiel Estates, Brielleburgh, Pennsylvania, Libyan Arab Jamahiriya",
+  "type": "Entire guesthouse",
+  "maxNumOfGuests": 7,
+  "numOfBeds": 5,
+  "numOfBaths": 1,
+  "hostName": "Tara Kuhic Jr.",
+  "hostPic": "http://lorempixel.com/640/480",
+  "amenities": [
+    {
+      "amenityType": "Safety",
+      "amenityValue": [
+        {
+          "name": "Free parking on premises",
+          "value": "Modi aut aliquam eum aut nisi omnis voluptatem."
+        },
+        {
+          "name": "Hot tub",
+          "value": "Aut inventore dolor."
+        }
+      ]
+    },
+    {
+      "amenityType": "Dining",
+      "amenityValue": [
+        {
+          "name": "Laptop friendly workspace",
+          "value": "Vero repudiandae et rerum et maiores magnam consectetur laboriosam."
+        },
+        {
+          "name": "Kitchen",
+          "value": "Ullam quis et autem."
+        },
+        {
+          "name": "TV",
+          "value": "A quidem sunt et non magni."
+        }
+      ]
+    }
+  ],
+  "notIncludedAmenities": [
+    "facere",
+    "atque",
+    "pariatur",
+    "quia"
+  ],
+  "sleepingArrangements": [
+    {
+      "name": "Bedroom3",
+      "value": "2 queen beds"
+    }
+  ],
+  "houseRules": {
+    "basicRules": [
+      "Labore et voluptates quia nisi fugiat enim.",
+      "Dolor voluptates qui quia.",
+      "Et ipsam nisi quo enim nostrum officia corrupti numquam."
+    ],
+    "textBody": "Ut aspernatur unde a quaerat distinctio deserunt repudiandae nostrum iste. Qui repellendus voluptatem impedit repellendus ipsam voluptas ratione expedita. Soluta ut enim commodi. Numquam consequatur aut quam velit est. Dolore ad sed voluptatem ipsam voluptatem nesciunt modi.\n \rIpsa neque nesciunt. Molestias aut suscipit quis alias velit autem voluptatum sit voluptatem. Cupiditate explicabo nihil aut consequatur ipsa labore nam autem. Vitae vero blanditiis. Reiciendis exercitationem dolores quas ut et.\n \rAut omnis non mollitia autem. Et qui eos odit nemo aut non. Vitae ut explicabo placeat."
+  },
+  "cancellationPolicy": {
+    "policyType": "Strict(Grace Period)",
+    "description": "Aut dicta eius et id. Placeat sequi dolorem cumque ut labore aut aut sit qui. Saepe est iure beatae molestias quaerat.",
+    "link": "http://catharine.name"
+  },
+  "aboutHome": {
+    "summary": "Quia repudiandae omnis. Tempore enim vitae sapiente odit itaque. Officia laudantium et hic perferendis nemo. Ea consequuntur repudiandae.",
+    "space": "Minima incidunt occaecati. Laudantium cumque ab dolores totam dignissimos et aut et. Mollitia impedit qui cumque ex culpa aliquam. Et eligendi et sed.\n \rAb eum modi omnis sed aliquam quibusdam. Est ea illum exercitationem cum vel quae quis. Quia qui ut. Libero aut vel tempore ut at debitis deserunt.\n \rEligendi sed quia magni nobis fugit quod minima sed. In voluptatum quo ad asperiores rerum sit ea quas. Eos nemo aperiam quam perferendis. Aut praesentium ut. Aut atque aut repellat nesciunt. Omnis et commodi explicabo sed.",
+    "guestAccess": "Quis sit minima in. Odit harum voluptatem ipsa facere sint suscipit. Non aliquid in doloribus recusandae. Eaque dolorem facere accusantium omnis consectetur laudantium aperiam et molestias. Omnis dolores placeat sunt.\n \rRerum suscipit molestiae non et reprehenderit et. Omnis porro aut eos aperiam pariatur nihil quam laudantium tempore. Vero temporibus impedit earum commodi molestiae quae. Veniam placeat ex hic et ratione nam. Ut est velit aut quia molestiae.\n \rIncidunt consequatur dolorem non alias magni nulla necessitatibus sequi illum. Magnam nisi saepe laboriosam vero facilis et. Et in amet molestias veniam. Quas esse voluptatum aliquam optio exercitationem reprehenderit ut. Qui ut iusto.",
+    "interactionWithGuests": "Praesentium doloremque voluptates sed dolores et nisi quam fugiat molestias. Dolorum nisi velit odit. Sit odio officia temporibus tempora at. Necessitatibus ut nemo qui. Quos rerum doloribus enim id voluptatem ut ut id.\n \rEt laudantium provident deserunt officiis. Et ut dolores sequi voluptatem. Dolor molestias soluta dolore voluptas voluptatem eligendi. Optio culpa officia animi voluptas.\n \rAutem quisquam perferendis rem id laborum nam pariatur modi. Dolorem vel voluptas consequatur saepe libero cupiditate adipisci. Ut odio reprehenderit ut excepturi. Odio aut laudantium quasi perferendis recusandae neque.",
+    "otherNotes": "Perferendis accusantium consequatur dolor assumenda. Sit voluptas ut. Aliquid hic tempore quo magnam nisi laborum.\n \rSed nihil blanditiis non. Illo ullam vitae. Molestiae modi repellat eum commodi tempora sit explicabo. Magnam id distinctio explicabo sit aliquam ipsum praesentium. Consequatur aperiam voluptatem distinctio voluptatem quos ipsum.\n \rMolestiae explicabo omnis qui qui quia harum. Libero omnis corrupti aliquid repellat neque cupiditate in. Enim nam culpa sed molestias sint iure commodi dolores libero. Dignissimos sint expedita dolorum molestiae eos inventore rem ut repudiandae."
+  },
+  "nostrudb": -82192087.26106429,
+  "ullamcoac6": "nulla",
+  "_id": 3
+}
