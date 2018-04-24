@@ -1,0 +1,158 @@
+body {
+  font-weight: 250;
+  color: #484848;
+}
+
+.section {
+  border-bottom: solid;
+  border-width: .5px;
+  border-color: #eaebed;
+}
+
+#listingtype {
+  font-size: 12px;
+  font-weight: normal;
+  margin-top: 20px;
+}
+
+#title {
+  font-size:30px;
+  font-weight: bold;
+}
+
+.link {
+  color: #118488;
+  font-weight: normal;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.link:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+#host-pic {
+  border-radius: 50%;
+  height: 60px;
+  width: 60px;
+}
+
+#host {
+  float: right;
+  text-align: center;
+}
+
+.roomstats {
+  margin-right: 15px;
+  margin-left: 10px;
+}
+
+.icons {
+  vertical-align: bottom;
+  font-size: 20px !important;
+}
+
+#summary {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.stats {
+  margin-top: 20px;
+}
+
+.subtitles {
+  font-weight: bold;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+
+.smtitle {
+  font-weight: 400;
+  font-size: 16px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#amenityTitle {
+  font-weight: bold;
+  font-size: 24px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.amenityType {
+  font-weight: 400;
+  font-size: 22px;
+  margin-top: 20px;
+}
+
+.amenityName {
+  font-size: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#notIncludedAmenities {
+  font-size: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-decoration: line-through;
+}
+
+.amenity-icon {
+  padding: 10px;
+}
+
+.bed-icon {
+  font-size: 26px;
+  margin-top: 10px;
+  padding: 5px;
+}
+
+.para {
+  border-bottom: solid;
+  border-width: .5px;
+  border-color: #eaebed;
+}
+
+#room {
+  font-weight: 400;
+  font-size: 16px;
+  margin-top: 30px;
+}
+
+#sleepingArrangement {
+  height: 170px;
+  width: 170px;
+  border: solid;
+  border-width: .5px;
+  border-color: #eaebed;
+  border-radius: 3%;
+  margin: 10px;
+}
+
+#box {
+  width: 100%;
+  overflow: hidden;
+  background-color: white;
+}
+
+.slide-enter {
+  max-height: 0;
+  transition: all 1s ease-in;
+}
+
+.slide-enter.slide-enter-active {
+  max-height: 1000px;
+}
+
+.slide-leave {
+  max-height: 1000px;
+  transition: all .3s ease-out;
+}
+
+.slide-leave.slide-leave-active {
+  max-height: 0;
+}
