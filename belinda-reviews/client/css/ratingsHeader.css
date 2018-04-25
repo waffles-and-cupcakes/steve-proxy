@@ -1,0 +1,42 @@
+body {
+  font-size: 17px;
+  color: #484848;
+}
+
+i.icon-star {
+  color: #00888B;
+}
+
+.avgs i.icon-star {
+  font-size: 1.1em;      
+}
+
+div.rev-title {
+  display:flex;
+  justify-content: flex-start;
+  align-items:baseline;
+}
+
+
+span.title-text {
+  font-size: 28px;
+  font-weight: bold;
+  padding-right: 0.5em;
+}
+
+input.rev-search{
+  border: 1px solid rgb(225, 226, 226);
+  border-radius: 3px;
+  height:2em;
+  padding-left: 0.5em;
+}
+
+input.rev-search:focus {
+  border: 1px solid #00888B;
+  border-radius: 2px;
+}
+
+.rating {
+  display:flex;
+  justify-content: space-between;
+}

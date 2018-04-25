@@ -1,0 +1,52 @@
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.75);
+  z-index: 1001;
+}
+
+.modalContent {
+  position: absolute;
+  top: 10%;
+  left: 15%;
+  right: 15%;
+  bottom: 20%;
+  text-align: center;
+  z-index: 1001;
+}
+
+.modalPhoto {
+  height: 70vh;
+}
+
+.modalClose {
+  background: rgba(0, 0, 0, 0);
+  width: 100px;
+  position: fixed;
+  top: 0;
+  right: 0;
+  color: white;
+  cursor: pointer;
+  padding: 16px 28px 8px;
+  border: none;
+  outline: none;
+}
+
+.modalClose:active,
+.modalClose:focus {
+  background: rgba(0, 0, 0, 0);
+}
+
+.closeX {
+  stroke: white;
+  fill: transparent;
+  stroke-linecap: round;
+  stroke-width: 1;
+}
+
+svg {
+  display: block;
+}

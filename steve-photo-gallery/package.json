@@ -1,0 +1,54 @@
+{
+  "name": "photo-gallery",
+  "version": "1.0.0",
+  "description": "A photo gallery in the style of an Airbnb listing",
+  "author": "Steve Richards",
+  "license": "MIT",
+  "engines": {
+    "node": ">=6.13.0"
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "webpack -p && node server/server.js",
+    "dev:server": "nodemon server/server.js",
+    "dev:react": "webpack -d --watch",
+    "db:setup": "node database/seed.js"
+  },
+  "jest": {
+    "moduleNameMapper": {
+      "\\.(css|less)$": "<rootDir>/client/src/components/__mocks__/styleMock.js"
+    }
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.3",
+    "mongoose": "^4.11.6",
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1",
+    "react-slick": "^0.23.1",
+    "webpack": "^2.2.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-jest": "^22.4.3",
+    "babel-loader": "^7.1.4",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "css-loader": "^0.28.11",
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.1.1",
+    "enzyme-to-json": "^3.3.3",
+    "eslint": "^4.19.1",
+    "eslint-config-hackreactor": "git://github.com/reactorcore/eslint-config-hackreactor",
+    "eslint-loader": "^2.0.0",
+    "faker": "^4.1.0",
+    "jest": "^22.4.3",
+    "nodemon": "^1.17.3",
+    "react-test-renderer": "^16.3.1",
+    "regenerator-runtime": "^0.11.1",
+    "style-loader": "^0.20.3",
+    "superagent": "^3.8.2",
+    "supertest": "^3.0.0"
+  }
+}

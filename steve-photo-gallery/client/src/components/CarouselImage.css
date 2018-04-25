@@ -1,0 +1,35 @@
+.mainImage {
+  height: 70vh;
+  cursor: pointer;
+  margin: auto;
+}
+
+@media (max-width: 1500px) {
+  .mainImage {
+    height: 60vh;
+  }
+}
+
+@media (max-width: 1200px) {
+  .mainImage {
+    height: 50vh;
+  }
+}
+
+@media (max-width: 1050px) {
+  .mainImage {
+    height: 40vh;
+  }
+}
+
+@media (max-width: 850px) {
+  .mainImage {
+    height: 30vh;
+  }
+}
+
+@media (max-width: 600px) {
+  .mainImage {
+    height: 20vh;
+  }
+}
